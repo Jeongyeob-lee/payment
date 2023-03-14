@@ -1,0 +1,6 @@
+rootProject.name = 'payment'
+include 'api'
+include 'batch'
+include 'domain'
+include 'util'
+
